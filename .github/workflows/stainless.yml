@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: stainless-api/upload-openapi-spec-action@915ff1fd149366cba574dd64dbf77277d2f29d1f
+      - uses: stainless-api/upload-openapi-spec-action@f19b1d0e24fbf283365720ea97fbfdb388d7013b
         with:
           stainless_api_key: ${{ secrets.STAINLESS_API_KEY }}
           input_path: 'openapi.yml'
