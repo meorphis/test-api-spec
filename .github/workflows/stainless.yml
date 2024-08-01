@@ -15,4 +15,4 @@ jobs:
           stainless_api_key: ${{ secrets.STAINLESS_API_KEY }}
           input_path: 'openapi.yml'
           project_name: 'meorphis-test'
-          commit_message: 'my extremely cool feature'
+          commit_message: 'feat(api): my extremely cool feature'
