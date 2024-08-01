@@ -37,7 +37,7 @@ info:
     email: feedback@vectara.com
 tags:
   - name: Queries
-    description: Perform search and retrieval augmented generation operations on one or more corpora!!!
+    description: Perform search and retrieval augmented generation operations on one or more corpora!!!!!
   - name: Upload
     description: Upload files to a corpus for automatic parsing and document extraction
   - name: Index
